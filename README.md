@@ -1,2 +1,1 @@
-# c_projects
-Some c projects .)
+Projects from 42 Piscine.
